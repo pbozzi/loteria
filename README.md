@@ -1,2 +1,3 @@
 # loteria
-Aplicação para simulação de loterias
+
+Aplicação para simulação de loterias.
